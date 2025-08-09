@@ -12,7 +12,7 @@ Key Variables:
    
 Optimization: Increasing gas injection, does not always increase oil production. There is an optimal point. Too much gas creates turbulence and can actually reduce flow.
 
-#### Part B: Choke Flow Physics
+#### Part B: Choke Flow
 Purpose: Chokes are production control devices. They can increase or decrease the flow rate and wellhead pressure by changing the orifice diameter.
 
 Key Concepts:
