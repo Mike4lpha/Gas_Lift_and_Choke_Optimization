@@ -9,7 +9,7 @@ Key Variables:
 * Reservoir pressure (driving force)
 * Water cut (affects fluid density)
 * Well depth (affects hydrostatic head)
-\n  
+   
 Optimization: Increasing gas injection, does not always increase oil production. There is an optimal point. Too much gas creates turbulence and can actually reduce flow.
 
 #### Part B: Choke Flow Physics
